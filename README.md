@@ -1,4 +1,4 @@
-[![MasterHead](https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm Marselinus Alberto Moa</h1>
 <h3 align="center">A passionate junior data scientist from Indonesia.</h3>
 
