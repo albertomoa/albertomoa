@@ -1,4 +1,4 @@
-[![MasterHead]([![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://miro.medium.com/v2/resize:fit:1104/1*JWt9kNpD1ijdRiZYk-y7ww.jpeg)
+[![MasterHead](https://i.gifer.com/origin/71/711557abfeed55bc0ebc5185168147c6.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Marselinus Alberto Moa</h1>
 <h3 align="center">A passionate junior data scientist from Indonesia.</h3>
 
