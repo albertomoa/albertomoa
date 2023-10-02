@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif))]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif)](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif)]
 <h1 align="center">Hi 👋, I'm Marselinus Alberto Moa</h1>
 <h3 align="center">A passionate junior data scientist from Indonesia.</h3>
 
