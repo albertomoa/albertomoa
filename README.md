@@ -4,8 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertomoa&label=Profile%20views&color=0e75b6&style=flat" alt="albertomoa" /> </p>
 
-- 🌱 I’m currently learning **Data Scientist online course at TripleTen (ex-Practicum)**
-
+- 🌱 Currently on a journey to enhance my skills in:
+   - Python Programming 🐍
+   - Data Analysis and Exploration 📊
+   - Machine Learning Modeling 🤖
+   - Deep Learning 🌐
+   - 
 - 💬 Ask me about **Python, Data Visualization, Machine Learning Modeling**
 
 - 📫 How to reach me **albertomoa.94@outlook.com**
