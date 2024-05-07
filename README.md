@@ -1,14 +1,15 @@
 [![MasterHead](https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif)]
 <h1 align="center">Hi 👋, I'm Marselinus Alberto Moa</h1>
-<h3 align="center">Cultivated over four years of hands-on expertise in optimizing production processes. I recently graduated as a certified data scientist from TripleTen, proficient in Python, SQL, machine learning, and deep learning. I am eager to leverage my combined expertise in production supervision and advanced data science skills as a junior data scientist. Dedicated to enhancing operational efficiency and contributing to informed decision-making in fast-paced environments.</h3>
+<h4 align="center">Cultivated over four years of hands-on expertise in optimizing production processes. I recently graduated as a certified data scientist from TripleTen. I am eager to leverage my combined expertise in production supervision and advanced data science skills as a junior data scientist. Dedicated to enhancing operational efficiency and contributing to informed decision-making in fast-paced environments.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=albertomoa&label=Profile%20views&color=0e75b6&style=flat" alt="albertomoa" /> </p>
 
 - 🌱 Currently on a journey to enhance my skills in:
-   - Python Programming 🐍
-   - Data Analysis and Exploration 📊
-   - Machine Learning 🤖
-   - Deep Learning 🌐
+   - Python Programming
+   - Data Analysis and Exploration
+   - SQL
+   - Machine Learning
+   - Deep Learning
    - Model Deployment
    - MLOPs
      
