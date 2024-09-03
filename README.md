@@ -12,8 +12,8 @@
    - Deep Learning
    - Model Deployment
    - MLOPs
-     
-- 💬 Ask me about **Python, Data Visualization, Machine Learning**
+   - Bioinformatics
+   - Cheminformatics
 
 - 📫 How to reach me **albertomoa.94@outlook.com**
 
